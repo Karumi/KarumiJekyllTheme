@@ -1,4 +1,4 @@
-# ![Karumi logo](https://cloud.githubusercontent.com/assets/858090/11626547/e5a1dc66-9ce3-11e5-908d-537e07e82090.png) Karumi Jekyll Template
+# ![Karumi logo](https://cloud.githubusercontent.com/assets/858090/11626547/e5a1dc66-9ce3-11e5-908d-537e07e82090.png) Karumi Jekyll Theme
 
 Are you writing documentation for any Karumi open source project and you'd like to make your documentation shine as [our blog does](https://blog.karumi.com/)? Just follow the repository instructions, and we'll get there soon :smiley:
 
@@ -8,7 +8,7 @@ If you want to use this layout you'll need to copy the css, images, layout and i
 
 Once you've included the folders as part of your repository, you just need to commit & push in the ``master`` branch. After that, enable the GitHub pages configuration in the repository you are using and then go to the configured GitHub page url.
 
-At this point, you are ready to rock :guitar: You can now write your documentation and you'll see how the GitHub page is updated using the Karumi Jekyll template :clap: :clap:
+At this point, you are ready to rock :guitar: You can now write your documentation and you'll see how the GitHub page is updated using the Karumi Jekyll theme :clap: :clap:
 
 License
 -------
