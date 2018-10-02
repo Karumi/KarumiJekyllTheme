@@ -1,10 +1,12 @@
 # ![Karumi logo](https://cloud.githubusercontent.com/assets/858090/11626547/e5a1dc66-9ce3-11e5-908d-537e07e82090.png) Karumi Jekyll Theme
 
-Are you writing documentation for any Karumi open source project and you'd like to make your documentation shine as [our blog does](https://blog.karumi.com/)? Just follow the repository instructions, and we'll get there soon :smiley:
+Are you writing documentation for any Karumi open source project and you'd like to make your documentation shine as [our blog does](https://blog.karumi.com/)? Just follow the repository instructions, and we'll get there soon :smiley: At the end of the process you'll be able to see a site like [this](https://karumi.github.io/KarumiJekyllTheme/).
 
 This repository contains a simple Jekyll template/theme you can copy and paste as part of your repository GitHub pages configuration to make your docs or static site use the Karumi style. The content of the repository has to be copy and pasted because the default deploy GitHub pages used for documentation and similar projects do not support the usage of Ruby gems :cry:
 
 If you want to use this layout you'll need to copy the css, images, layout and include folders as part of your GitHub page root folder. It can be the ``/docs`` or the root repository folder. You can find an example in this repository under the ``/docs`` directory.
+
+After copy and paste all the content remember you'll need to update the content of the ``_config.yml`` file.
 
 Once you've included the folders as part of your repository, you just need to commit & push in the ``master`` branch. After that, enable the GitHub pages configuration in the repository you are using and then go to the configured GitHub page url.
 
