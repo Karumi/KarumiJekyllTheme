@@ -8,7 +8,11 @@ If you want to use this layout you'll need to copy the css, images, layout and i
 
 Once you've included the folders as part of your repository, you just need to commit & push in the ``master`` branch. After that, enable the GitHub pages configuration in the repository you are using and then go to the configured GitHub page url.
 
-At this point, you are ready to rock :guitar: You can now write your documentation and you'll see how the GitHub page is updated using the Karumi Jekyll theme :clap: :clap:
+At this point, you are ready to rock :guitar: You can now write your documentation and you'll see how the GitHub page is updated using the Karumi Jekyll theme :clap: :clap: Remember you can use all the markdown styles availables in [this cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). At the end of the GitHub page configuration your site will be shown to the readers using this style:
+
+![screenshot](art/screenshot.png)
+
+If for some reason you need to modify our theme you can install [Jekyll](https://jekyllrb.com/) in your computer and from the ``docs`` folder execute ``jekyll serve --livereload``. This command will let you review the content of the ``docs`` folder using the theme we've developed from [localhost:4000](localhost:4000)
 
 License
 -------
