@@ -33,6 +33,11 @@ body {
 ol, ul {
 	list-style: none;
 }
+
+.content ul {
+    list-style: disc;
+}
+
 blockquote, q {
 	quotes: none;
 }
