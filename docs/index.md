@@ -1,4 +1,4 @@
 ---
-layout: main
+layout: page
 ---
 # Karumi Jekyll Theme

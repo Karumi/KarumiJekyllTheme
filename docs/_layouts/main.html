@@ -13,10 +13,13 @@
     <script src="assets/js/modernizr.js"></script>
 </head>
 
-<body itemscope itemtype="https://schema.org/Blog">
+<body>
+    {% include header.html %}
     <div class="cd-content">
         {{ content }}
     </div>
+    {% include footer.html %}
+    {% include sharing.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
     <script src="assets/js/fitvids.js"></script>
     <script src="assets/js/velocity.js"></script>
