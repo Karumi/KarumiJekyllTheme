@@ -1,4 +1,4 @@
-# ![Karumi logo](https://cloud.githubusercontent.com/assets/858090/11626547/e5a1dc66-9ce3-11e5-908d-537e07e82090.png) Karumi Jekyll Theme
+# ![Karumi logo](https://cloud.githubusercontent.com/assets/858090/11626547/e5a1dc66-9ce3-11e5-908d-537e07e82090.png)[![Build Status](https://travis-ci.com/Karumi/KarumiJekyllTheme.svg?branch=master)](https://travis-ci.com/Karumi/KarumiJekyllTheme) Karumi Jekyll Theme
 
 Are you writing documentation for any Karumi open source project and you'd like to make your documentation shine as [our blog does](https://blog.karumi.com/)? Just follow the repository instructions, and we'll get there soon :smiley: At the end of the process you'll be able to see a site like [this](https://karumi.github.io/KarumiJekyllTheme/).
 
