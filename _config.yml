@@ -1,4 +1,5 @@
 title: "Karumi"
+baseurl: /KarumiJekyllTheme
 defaults:
   -
     scope:
