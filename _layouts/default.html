@@ -8,9 +8,9 @@
     <meta itemprop="url" content="{{ site.title }}">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="/assets/favicon.ico">
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <script src="/assets/js/modernizr.js"></script>
+    <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | prepend:relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend:relative_url }}">
+    <script src="{{ '/assets/js/modernizr.js' | prepend:relative_url }}"></script>
 </head>
 
 <body>
@@ -39,11 +39,11 @@
     {% include footer.html %}
     {% include sharing.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
-    <script src="/assets/js/fitvids.js"></script>
-    <script src="/assets/js/velocity.js"></script>
-    <script src="/assets/js/index.js"></script>
-    <link rel="stylesheet" type="text/css" href="/assets/css/prism.css" />
-    <script type="text/javascript" src="/assets/js/prism.js"></script>
+    <script src="{{ '/assets/js/fitvids.js' | prepend:relative_url }}"></script>
+    <script src="{{ '/assets/js/velocity.js' | prepend:relative_url }}"></script>
+    <script src="{{ '/assets/js/index.js' | prepend:relative_url }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/prism.css' | prepend:relative_url }}" />
+    <script type="text/javascript" src="{{ '/assets/js/prism.js' | prepend:relative_url }}"></script>
 </body>
 
 </html>
