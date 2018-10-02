@@ -14,7 +14,7 @@ At this point, you are ready to rock :guitar: You can now write your documentati
 
 ![screenshot](art/screenshot.png)
 
-If for some reason you need to modify our theme you can install [Jekyll](https://jekyllrb.com/) in your computer and from the ``docs`` folder execute ``jekyll serve --livereload``. This command will let you review the content of the ``docs`` folder using the theme we've developed from [localhost:4000](localhost:4000)
+If for some reason you need to modify our theme you can install [Jekyll](https://jekyllrb.com/) in your computer and from the ``docs`` folder execute ``bundle install && bundle exec jekyll serve --livereload``. This command will let you review the content of the ``docs`` folder using the theme we've developed from [localhost:4000](localhost:4000)
 
 License
 -------
