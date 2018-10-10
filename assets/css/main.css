@@ -1999,6 +1999,16 @@ pre, pre[class*="language-"]{
     max-width: 100vw;
 }
 
+
+/* 13. Github Styles
+/* ---------------------------------------------------------- */
+
+.task-list-item-checkbox {
+    margin: 0 0.2em 0.25em -1.6em;
+    vertical-align: middle;
+    width: auto;
+}
+
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
